@@ -1,5 +1,4 @@
-### Olá sou Alex Sandro👋
-
+## Olá sou Alex Sandro👋
 <div align="center">
   <a href="https://github.com/Alexgenesio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexgenesio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -14,7 +13,7 @@
   </div>
   
 ##
- 
+  
    <div>
  	   <a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
      <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
