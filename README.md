@@ -11,6 +11,7 @@
      <img align="center" alt="Alex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
      <img align="center" alt="Alex-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
      <img align="center" alt="Alex-Python" height="30" width="40" src="https://icongr.am/devicon/linux-original.svg?size=121&color=currentColor">
+    
   </div>
   
 ##
